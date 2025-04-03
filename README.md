@@ -14,11 +14,11 @@ cd <your-project-folder>
 
 LibGDX and its dependencies are managed by Gradle. To ensure everything is properly downloaded, run:
 On Windows:
-
+```sh
 gradlew.bat clean build
 
 On Mac/Linux:
-
+```sh
 ./gradlew clean build
 
 This will automatically download and configure all required libraries.
