@@ -1,6 +1,6 @@
 # A Simple Game
 
-This is a simple raindrop game made from an old tutorial on creating a first game with **libGDX** game framework, and developed using **Eclipse IDE**. Press left and right arrow keys to move the bucket in order to get as much water drops as possible.
+This is a simple raindrop game made from an old introductory tutorial on creating a game with **libGDX** game framework, and developed using **Eclipse IDE**. Press left and right arrow keys to move the bucket in order to get as much water drops as possible.
 
 ## **Setup Instructions**
 
