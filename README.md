@@ -7,10 +7,9 @@ This is a **libGDX** project developed using **Eclipse IDE**.
 ### **1. Clone the Repository**
 Run the following command in your terminal or command prompt:
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/jocarthaens/a-simple-game
 cd <your-project-folder>
 ```
-Replace `<your-repository-url>` with the actual GitHub repository URL.
 
 ### **2. Download Dependencies**
 LibGDX and its dependencies are managed by Gradle. To ensure everything is properly downloaded, run:
@@ -39,5 +38,3 @@ After importing the project, run the **desktop launcher**:
 2. Right-click `DesktopLauncher.java`.
 3. Select **Run As > Java Application**.
 
-## **License**
-[Specify your project’s license if applicable.]
